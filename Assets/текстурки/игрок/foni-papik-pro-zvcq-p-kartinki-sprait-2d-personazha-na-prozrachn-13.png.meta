@@ -1,0 +1,3627 @@
+fileFormatVersion: 2
+guid: 79ef6c4c02be45147b0d4795311b26fe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2492361340816216913
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_0
+  - first:
+      213: 6353699586199248570
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_1
+  - first:
+      213: -1500971826931773567
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_2
+  - first:
+      213: 5777270051690041411
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_3
+  - first:
+      213: -7464977744158842056
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_4
+  - first:
+      213: -3585386794238490211
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_5
+  - first:
+      213: -6765871491124472607
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_6
+  - first:
+      213: 265604127962738104
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_7
+  - first:
+      213: -1302326973263075242
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_8
+  - first:
+      213: -4633974494631329941
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_9
+  - first:
+      213: 8570910869140060140
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_10
+  - first:
+      213: 8221182982564259274
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_11
+  - first:
+      213: 2042142356013047613
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_12
+  - first:
+      213: 127833382082645808
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_13
+  - first:
+      213: -3921223023674597955
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_14
+  - first:
+      213: -1504727866273457726
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_15
+  - first:
+      213: -1880453247751455807
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_16
+  - first:
+      213: -5435284623593557928
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_17
+  - first:
+      213: -4358546202684769049
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_18
+  - first:
+      213: -1743742011854158500
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_19
+  - first:
+      213: 831196899152308017
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_20
+  - first:
+      213: 5582373220897422303
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_21
+  - first:
+      213: -2118807821805458279
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_22
+  - first:
+      213: -4596013355659292820
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_23
+  - first:
+      213: 6056248878214087520
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_24
+  - first:
+      213: -4353101300409323186
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_25
+  - first:
+      213: -2949989267216597041
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_26
+  - first:
+      213: 2299765058403166691
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_27
+  - first:
+      213: -5914218091077213342
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_28
+  - first:
+      213: 5395450329765246063
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_29
+  - first:
+      213: -230234432215628440
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_30
+  - first:
+      213: -6978478823726487515
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_31
+  - first:
+      213: -743858438043998524
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_32
+  - first:
+      213: -5940961173775905403
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_33
+  - first:
+      213: -1180373530134791812
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_34
+  - first:
+      213: 5511487774609691337
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_35
+  - first:
+      213: -2782477255032666364
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_36
+  - first:
+      213: 8061231543166240125
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_37
+  - first:
+      213: 5059518384899738135
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_38
+  - first:
+      213: 7976632362835070958
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_39
+  - first:
+      213: -6489578710680297220
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_40
+  - first:
+      213: -4981018767459047912
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_41
+  - first:
+      213: 4446517621495624705
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_42
+  - first:
+      213: 51859379605048123
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_43
+  - first:
+      213: -9023173419538231000
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_44
+  - first:
+      213: -7471439126420195061
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_45
+  - first:
+      213: -8029300758130534189
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_46
+  - first:
+      213: 605473775974151690
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_47
+  - first:
+      213: -8774554094829402745
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_48
+  - first:
+      213: -4853614284905140810
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_49
+  - first:
+      213: 9035629982308676296
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_50
+  - first:
+      213: 401709962880804029
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_51
+  - first:
+      213: 7899443621850441805
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_52
+  - first:
+      213: -6965695848088737967
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_53
+  - first:
+      213: -6383766554532371205
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_54
+  - first:
+      213: 4808058409487556711
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_55
+  - first:
+      213: 7837145285609459578
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_56
+  - first:
+      213: 6662494849810774363
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_57
+  - first:
+      213: -7316776199597144455
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_58
+  - first:
+      213: 1506004082826425174
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_59
+  - first:
+      213: 4321537777232248815
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_60
+  - first:
+      213: 7181561026209760595
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_61
+  - first:
+      213: 843785614856152171
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_62
+  - first:
+      213: 910710927969150907
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_63
+  - first:
+      213: -2644345426518515290
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_64
+  - first:
+      213: -5812111850589125748
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_65
+  - first:
+      213: -6789744205944319774
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_66
+  - first:
+      213: 5423559147582786173
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_67
+  - first:
+      213: -7180693810752554205
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_68
+  - first:
+      213: 8096455139065959760
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_69
+  - first:
+      213: 4318358481737449244
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_70
+  - first:
+      213: -277322749971814811
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_71
+  - first:
+      213: -3472784648738959252
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_72
+  - first:
+      213: 3998851525665917712
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_73
+  - first:
+      213: 5392108207994268359
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_74
+  - first:
+      213: -6575498604794157201
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_75
+  - first:
+      213: -8003008550180216432
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_76
+  - first:
+      213: -8299904269865900188
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_77
+  - first:
+      213: 3608989986019562599
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_78
+  - first:
+      213: -3124720367983150107
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_79
+  - first:
+      213: -1581111467346371299
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_80
+  - first:
+      213: -1251919907797779655
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_81
+  - first:
+      213: -1735574401905483737
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_82
+  - first:
+      213: 3736041741350639283
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_83
+  - first:
+      213: 1930343871518173633
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_84
+  - first:
+      213: -6134343437459000911
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_85
+  - first:
+      213: 3248063928296929879
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_86
+  - first:
+      213: 7604750894030607582
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_87
+  - first:
+      213: 2150562701646229924
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_88
+  - first:
+      213: 1437044177674553197
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_89
+  - first:
+      213: 8995086253787926838
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_90
+  - first:
+      213: -823947042440254000
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_91
+  - first:
+      213: 3135798815048222495
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_92
+  - first:
+      213: -8209032488602967666
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_93
+  - first:
+      213: 5360877841231665465
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_94
+  - first:
+      213: -983425598604443162
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_95
+  - first:
+      213: -4019838794565093486
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_96
+  - first:
+      213: -2869618748318603204
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_97
+  - first:
+      213: 8056629312147440845
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_98
+  - first:
+      213: 8312219861701164385
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_99
+  - first:
+      213: 6063866693002787376
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_100
+  - first:
+      213: -9150937207257560301
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_101
+  - first:
+      213: 584864122612552833
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_102
+  - first:
+      213: -5493973326172202003
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_103
+  - first:
+      213: 3883372490956306750
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_104
+  - first:
+      213: -6931458410596540488
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_105
+  - first:
+      213: -3926650275794759817
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_106
+  - first:
+      213: 2952769309970013555
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_107
+  - first:
+      213: -4202460323176593922
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_108
+  - first:
+      213: -4499919564071919605
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_109
+  - first:
+      213: -7939999262948753549
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_110
+  - first:
+      213: 8621105871646660573
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_111
+  - first:
+      213: 3052317760045155850
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_112
+  - first:
+      213: -6778518919362014142
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_113
+  - first:
+      213: 7504815076735819327
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_114
+  - first:
+      213: 2159175347293194425
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_115
+  - first:
+      213: -2245790449807982023
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_116
+  - first:
+      213: 2828964678502235278
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_117
+  - first:
+      213: 4111667989181703969
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_118
+  - first:
+      213: 1892325743404142604
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_119
+  - first:
+      213: -6590219178731516769
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_120
+  - first:
+      213: 5381250252114856310
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_121
+  - first:
+      213: 3273205371841341981
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_122
+  - first:
+      213: -4087010364718653667
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_123
+  - first:
+      213: 4016249927046337707
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_124
+  - first:
+      213: -8653844768298718573
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_125
+  - first:
+      213: 1002925304398778527
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_126
+  - first:
+      213: 8460718649004249935
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_127
+  - first:
+      213: 3830059007939534173
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_128
+  - first:
+      213: 4809634388193432561
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_129
+  - first:
+      213: 7013308690750853293
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_130
+  - first:
+      213: -2016110910823386637
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_131
+  - first:
+      213: 7073678024750106601
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_132
+  - first:
+      213: 6360195655325053267
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_133
+  - first:
+      213: 1858310030192991818
+    second: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_134
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 10
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 950
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facabbcc09a596dd0800000000000000
+      internalID: -2492361340816216913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_1
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 952
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abed3fc3c10ec2850800000000000000
+      internalID: 6353699586199248570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_2
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 952
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18fccdd631a7b2be0800000000000000
+      internalID: -1500971826931773567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_3
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 952
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 340dc72b08cfc2050800000000000000
+      internalID: 5777270051690041411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 952
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8332737fa42176890800000000000000
+      internalID: -7464977744158842056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_5
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 952
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d99c903f4b52e3ec0800000000000000
+      internalID: -3585386794238490211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_6
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 952
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e45597d9bbca12a0800000000000000
+      internalID: -6765871491124472607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_7
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 952
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bda8121c8d9fa300800000000000000
+      internalID: 265604127962738104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_8
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1015
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658ae3194843dede0800000000000000
+      internalID: -1302326973263075242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_9
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 952
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f774dbfb0d0bfb0800000000000000
+      internalID: -4633974494631329941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_10
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 949
+        width: 80
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7b0ac560ef1f670800000000000000
+      internalID: 8570910869140060140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_11
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 872
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5aa3d6d52871270800000000000000
+      internalID: 8221182982564259274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_12
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 872
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3fdfee27a5275c10800000000000000
+      internalID: 2042142356013047613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_13
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 872
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03f0971a8c726c100800000000000000
+      internalID: 127833382082645808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_14
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 870
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbddacc7f640599c0800000000000000
+      internalID: -3921223023674597955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_15
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 872
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9932f5af12e1be0800000000000000
+      internalID: -1504727866273457726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_16
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 873
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb7b07fbb947e5e0800000000000000
+      internalID: -1880453247751455807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_17
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 872
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8503095ae6df194b0800000000000000
+      internalID: -5435284623593557928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_18
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 872
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ecb8db32555383c0800000000000000
+      internalID: -4358546202684769049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_19
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 872
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c55028301ebfcc7e0800000000000000
+      internalID: -1743742011854158500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_20
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 873
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13721680d21098b00800000000000000
+      internalID: 831196899152308017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_21
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 872
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb7e332ed2987d40800000000000000
+      internalID: 5582373220897422303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 873
+        width: 50
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c67f1138b7892e0800000000000000
+      internalID: -2118807821805458279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_23
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 789
+        width: 55
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f0af8243ea730c0800000000000000
+      internalID: -4596013355659292820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_24
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 790
+        width: 71
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0630f41744e1c0450800000000000000
+      internalID: 6056248878214087520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_25
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 803
+        width: 76
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41bfc55e6da693c0800000000000000
+      internalID: -4353101300409323186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_26
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 804
+        width: 80
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcff65424688f07d0800000000000000
+      internalID: -2949989267216597041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_27
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 794
+        width: 44
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9e9fcc2286aef10800000000000000
+      internalID: 2299765058403166691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_28
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 800
+        width: 48
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26367252bf97ceda0800000000000000
+      internalID: -5914218091077213342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_29
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 802
+        width: 7
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f64fbe41d7d70ea40800000000000000
+      internalID: 5395450329765246063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_30
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 804
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86549b4f00b0eccf0800000000000000
+      internalID: -230234432215628440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_31
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 803
+        width: 39
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 528623fbb76772f90800000000000000
+      internalID: -6978478823726487515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_32
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 805
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c6e53511b84da5f0800000000000000
+      internalID: -743858438043998524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_33
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 789
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d03bcf9477d8da0800000000000000
+      internalID: -5940961173775905403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_34
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 789
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c79ba0a37887e9fe0800000000000000
+      internalID: -1180373530134791812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_35
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 711
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c2d48d0eecbc7c40800000000000000
+      internalID: 5511487774609691337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_36
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 711
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4078c22cda7a269d0800000000000000
+      internalID: -2782477255032666364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_37
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 710
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d750996d06f3fdf60800000000000000
+      internalID: 8061231543166240125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_38
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 710
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ac1822a25073640800000000000000
+      internalID: 5059518384899738135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_39
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 711
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eef4baa3fd0b2be60800000000000000
+      internalID: 7976632362835070958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_40
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 711
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0a6ffbb8260f5a0800000000000000
+      internalID: -6489578710680297220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_41
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 711
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816ac0252dddfdab0800000000000000
+      internalID: -4981018767459047912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_42
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 711
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104f2c4d73435bd30800000000000000
+      internalID: 4446517621495624705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_43
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 734
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b81abb4dd38b000800000000000000
+      internalID: 51859379605048123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_44
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 705
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8215dade49f37c280800000000000000
+      internalID: -9023173419538231000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_45
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 705
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09f4cc23bd105890800000000000000
+      internalID: -7471439126420195061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_46
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 705
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8dad46081329090800000000000000
+      internalID: -8029300758130534189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_47
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 705
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06f0c9f033176800800000000000000
+      internalID: 605473775974151690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_48
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 719
+        width: 5
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7858e335a858a3680800000000000000
+      internalID: -8774554094829402745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_49
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 630
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bda77ff58f74acb0800000000000000
+      internalID: -4853614284905140810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_50
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 630
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2b0699891056d70800000000000000
+      internalID: 9035629982308676296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_51
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 630
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4ee383519239500800000000000000
+      internalID: 401709962880804029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_52
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 629
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d48ee9bfe1670ad60800000000000000
+      internalID: 7899443621850441805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_53
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 630
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157e1413880e45f90800000000000000
+      internalID: -6965695848088737967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_54
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 630
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf4241c242e4867a0800000000000000
+      internalID: -6383766554532371205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_55
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 630
+        width: 55
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 760e5d436a7a9b240800000000000000
+      internalID: 4808058409487556711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_56
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 629
+        width: 68
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7f01e14d1223cc60800000000000000
+      internalID: 7837145285609459578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_57
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 629
+        width: 68
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5937d834cfe57c50800000000000000
+      internalID: 6662494849810774363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_58
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 630
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976caf9ffc6957a90800000000000000
+      internalID: -7316776199597144455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_59
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 630
+        width: 58
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6533823fbb666e410800000000000000
+      internalID: 1506004082826425174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_60
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 553
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feffb5f36bf29fb30800000000000000
+      internalID: 4321537777232248815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_61
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 549
+        width: 57
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355c50c24b70aa360800000000000000
+      internalID: 7181561026209760595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_62
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 548
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64e510db8ab5bb00800000000000000
+      internalID: 843785614856152171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_63
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 553
+        width: 77
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb7eaaa83ce73ac00800000000000000
+      internalID: 910710927969150907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_64
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 553
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a16fec48d56d4bd0800000000000000
+      internalID: -2644345426518515290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_65
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 553
+        width: 47
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c830cc6d01b375fa0800000000000000
+      internalID: -5812111850589125748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_66
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 553
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e01ce84e9bf5c1a0800000000000000
+      internalID: -6789744205944319774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_67
+      rect:
+        serializedVersion: 2
+        x: 504
+        y: 551
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a0ef93f4a544b40800000000000000
+      internalID: 5423559147582786173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_68
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 551
+        width: 36
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b7f39260d095c90800000000000000
+      internalID: -7180693810752554205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_69
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 551
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05599e75d036c5070800000000000000
+      internalID: 8096455139065959760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_70
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 551
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f71c4d824edeb30800000000000000
+      internalID: 4318358481737449244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_71
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 551
+        width: 33
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566abcf9d60c62cf0800000000000000
+      internalID: -277322749971814811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_72
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 551
+        width: 32
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c601c76f2c03ecfc0800000000000000
+      internalID: -3472784648738959252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_73
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 471
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b88d89646ce7730800000000000000
+      internalID: 3998851525665917712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_74
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 471
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ca67f7b8dd94da40800000000000000
+      internalID: 5392108207994268359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_75
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 471
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f67ea208bd22fb4a0800000000000000
+      internalID: -6575498604794157201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_76
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 471
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0912818102a9fe090800000000000000
+      internalID: -8003008550180216432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_77
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 471
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46725e49a01d0dc80800000000000000
+      internalID: -8299904269865900188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_78
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 471
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76453a26545b51230800000000000000
+      internalID: 3608989986019562599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_79
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 470
+        width: 45
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ebbfeb7163c2a4d0800000000000000
+      internalID: -3124720367983150107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_80
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 470
+        width: 57
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1dd58e5f73ce0ae0800000000000000
+      internalID: -1581111467346371299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_81
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 470
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b39701a7940aee0800000000000000
+      internalID: -1251919907797779655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_82
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 469
+        width: 47
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720a925e6400ae7e0800000000000000
+      internalID: -1735574401905483737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_83
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 470
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b69c3b5b2619d330800000000000000
+      internalID: 3736041741350639283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_84
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 471
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c961341685f9ca10800000000000000
+      internalID: 1930343871518173633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_85
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 385
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b1f100152f6edaa0800000000000000
+      internalID: -6134343437459000911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_86
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 389
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75af5ed0fe0731d20800000000000000
+      internalID: 3248063928296929879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_87
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 388
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4570c75a0898960800000000000000
+      internalID: 7604750894030607582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_88
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 388
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1f3da026558dd10800000000000000
+      internalID: 2150562701646229924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_89
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 388
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67c5d8d01861f310800000000000000
+      internalID: 1437044177674553197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_90
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 384
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63157013a47f4dc70800000000000000
+      internalID: 8995086253787926838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_91
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 402
+        width: 5
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd6d95c780c094f0800000000000000
+      internalID: -823947042440254000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_92
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 384
+        width: 35
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f174a0a7868948b20800000000000000
+      internalID: 3135798815048222495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_93
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 388
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e81ed27e178a31e80800000000000000
+      internalID: -8209032488602967666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_94
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 389
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93950e25ef9a56a40800000000000000
+      internalID: 5360877841231665465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_95
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 389
+        width: 40
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e10824e0ab2a52f0800000000000000
+      internalID: -983425598604443162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_96
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 310
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297fc931ae9a638c0800000000000000
+      internalID: -4019838794565093486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_97
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 310
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c382ba9c3f01d28d0800000000000000
+      internalID: -2869618748318603204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_98
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 310
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc44c8d6ca5eecf60800000000000000
+      internalID: 8056629312147440845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_99
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 310
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16df4a79cefea5370800000000000000
+      internalID: 8312219861701164385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_100
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 310
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03af0c921ae272450800000000000000
+      internalID: 6063866693002787376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_101
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 310
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31b028ff717510180800000000000000
+      internalID: -9150937207257560301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_102
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 310
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184113e12dadd1800800000000000000
+      internalID: 584864122612552833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_103
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 314
+        width: 88
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: debd8004e5c71c3b0800000000000000
+      internalID: -5493973326172202003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_104
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 221
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3979fd94b284e530800000000000000
+      internalID: 3883372490956306750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_105
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 221
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bfdffccc438ecf90800000000000000
+      internalID: -6931458410596540488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_106
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 221
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77f4012e06cb189c0800000000000000
+      internalID: -3926650275794759817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_107
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 221
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d10700b085af820800000000000000
+      internalID: 2952769309970013555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_108
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 215
+        width: 13
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5c2660a9cdda5c0800000000000000
+      internalID: -4202460323176593922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_109
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 222
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00a9a18ff21d81c0800000000000000
+      internalID: -4499919564071919605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_110
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 222
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37f731ffcb47fc190800000000000000
+      internalID: -7939999262948753549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_111
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 222
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7988a1d1254a770800000000000000
+      internalID: 8621105871646660573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_112
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 222
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a068b15b4d20c5a20800000000000000
+      internalID: 3052317760045155850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_113
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 222
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 244992cf4fcdde1a0800000000000000
+      internalID: -6778518919362014142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_114
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 222
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3e95d1dc85762860800000000000000
+      internalID: 7504815076735819327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_115
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 222
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8013fd98ee6fd10800000000000000
+      internalID: 2159175347293194425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_116
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 222
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9320b3f0c7955d0e0800000000000000
+      internalID: -2245790449807982023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_117
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 146
+        width: 49
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cb048f260824720800000000000000
+      internalID: 2828964678502235278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_118
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 145
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 127258960449f0930800000000000000
+      internalID: 4111667989181703969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_119
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 149
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c005ee6dc34e24a10800000000000000
+      internalID: 1892325743404142604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_120
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 149
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ccdbbc296da84a0800000000000000
+      internalID: -6590219178731516769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_121
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 149
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67989ccd79a0eaa40800000000000000
+      internalID: 5381250252114856310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_122
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 145
+        width: 48
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ae08981f2cc6d20800000000000000
+      internalID: 3273205371841341981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_123
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 149
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fda992ab50847c0800000000000000
+      internalID: -4087010364718653667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_124
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 148
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba419c697069cb730800000000000000
+      internalID: 4016249927046337707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_125
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 148
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39aae24880e57e780800000000000000
+      internalID: -8653844768298718573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_126
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 149
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9090f8204b1bed00800000000000000
+      internalID: 1002925304398778527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_127
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 90
+        width: 137
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43db62d8c28a6570800000000000000
+      internalID: 8460718649004249935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_128
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d550d006a172530800000000000000
+      internalID: 3830059007939534173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_129
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 79
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f3d5c75ef04fb240800000000000000
+      internalID: 4809634388193432561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_130
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 74
+        width: 44
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da05d5c9817445160800000000000000
+      internalID: 7013308690750853293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_131
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 73
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f13594fec55504e0800000000000000
+      internalID: -2016110910823386637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_132
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 70
+        width: 52
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e787b08fa0ca2260800000000000000
+      internalID: 7073678024750106601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_133
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 79
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351f1a13044f34850800000000000000
+      internalID: 6360195655325053267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_134
+      rect:
+        serializedVersion: 2
+        x: 495
+        y: 70
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ed230702b0ac910800000000000000
+      internalID: 1858310030192991818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 3817da975ba64c149b2d336cf64daeef
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_0: -2492361340816216913
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_1: 6353699586199248570
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_10: 8570910869140060140
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_100: 6063866693002787376
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_101: -9150937207257560301
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_102: 584864122612552833
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_103: -5493973326172202003
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_104: 3883372490956306750
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_105: -6931458410596540488
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_106: -3926650275794759817
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_107: 2952769309970013555
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_108: -4202460323176593922
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_109: -4499919564071919605
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_11: 8221182982564259274
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_110: -7939999262948753549
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_111: 8621105871646660573
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_112: 3052317760045155850
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_113: -6778518919362014142
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_114: 7504815076735819327
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_115: 2159175347293194425
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_116: -2245790449807982023
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_117: 2828964678502235278
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_118: 4111667989181703969
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_119: 1892325743404142604
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_12: 2042142356013047613
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_120: -6590219178731516769
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_121: 5381250252114856310
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_122: 3273205371841341981
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_123: -4087010364718653667
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_124: 4016249927046337707
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_125: -8653844768298718573
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_126: 1002925304398778527
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_127: 8460718649004249935
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_128: 3830059007939534173
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_129: 4809634388193432561
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_13: 127833382082645808
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_130: 7013308690750853293
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_131: -2016110910823386637
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_132: 7073678024750106601
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_133: 6360195655325053267
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_134: 1858310030192991818
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_14: -3921223023674597955
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_15: -1504727866273457726
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_16: -1880453247751455807
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_17: -5435284623593557928
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_18: -4358546202684769049
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_19: -1743742011854158500
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_2: -1500971826931773567
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_20: 831196899152308017
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_21: 5582373220897422303
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_22: -2118807821805458279
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_23: -4596013355659292820
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_24: 6056248878214087520
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_25: -4353101300409323186
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_26: -2949989267216597041
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_27: 2299765058403166691
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_28: -5914218091077213342
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_29: 5395450329765246063
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_3: 5777270051690041411
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_30: -230234432215628440
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_31: -6978478823726487515
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_32: -743858438043998524
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_33: -5940961173775905403
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_34: -1180373530134791812
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_35: 5511487774609691337
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_36: -2782477255032666364
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_37: 8061231543166240125
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_38: 5059518384899738135
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_39: 7976632362835070958
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_4: -7464977744158842056
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_40: -6489578710680297220
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_41: -4981018767459047912
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_42: 4446517621495624705
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_43: 51859379605048123
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_44: -9023173419538231000
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_45: -7471439126420195061
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_46: -8029300758130534189
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_47: 605473775974151690
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_48: -8774554094829402745
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_49: -4853614284905140810
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_5: -3585386794238490211
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_50: 9035629982308676296
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_51: 401709962880804029
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_52: 7899443621850441805
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_53: -6965695848088737967
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_54: -6383766554532371205
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_55: 4808058409487556711
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_56: 7837145285609459578
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_57: 6662494849810774363
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_58: -7316776199597144455
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_59: 1506004082826425174
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_6: -6765871491124472607
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_60: 4321537777232248815
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_61: 7181561026209760595
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_62: 843785614856152171
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_63: 910710927969150907
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_64: -2644345426518515290
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_65: -5812111850589125748
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_66: -6789744205944319774
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_67: 5423559147582786173
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_68: -7180693810752554205
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_69: 8096455139065959760
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_7: 265604127962738104
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_70: 4318358481737449244
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_71: -277322749971814811
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_72: -3472784648738959252
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_73: 3998851525665917712
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_74: 5392108207994268359
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_75: -6575498604794157201
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_76: -8003008550180216432
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_77: -8299904269865900188
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_78: 3608989986019562599
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_79: -3124720367983150107
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_8: -1302326973263075242
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_80: -1581111467346371299
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_81: -1251919907797779655
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_82: -1735574401905483737
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_83: 3736041741350639283
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_84: 1930343871518173633
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_85: -6134343437459000911
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_86: 3248063928296929879
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_87: 7604750894030607582
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_88: 2150562701646229924
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_89: 1437044177674553197
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_9: -4633974494631329941
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_90: 8995086253787926838
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_91: -823947042440254000
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_92: 3135798815048222495
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_93: -8209032488602967666
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_94: 5360877841231665465
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_95: -983425598604443162
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_96: -4019838794565093486
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_97: -2869618748318603204
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_98: 8056629312147440845
+      foni-papik-pro-zvcq-p-kartinki-sprait-2d-personazha-na-prozrachn-13_99: 8312219861701164385
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
