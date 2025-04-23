@@ -26,8 +26,8 @@ Transform:
   m_GameObject: {fileID: 3028324837852026817}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.01, y: 0.05, z: -0.07096875}
-  m_LocalScale: {x: 2.3100126, y: 0.6368, z: 1}
+  m_LocalPosition: {x: 0, y: 0.13, z: -0.07096875}
+  m_LocalScale: {x: 2.3100126, y: 2, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 237540244410758925}
@@ -76,7 +76,7 @@ SpriteRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Sprite: {fileID: 1749899384, guid: ca1fe683d8872314481b6dbcd87cb1d1, type: 3}
+  m_Sprite: {fileID: 1557926543538163036, guid: 1f7cf1fbe1a961740a7062e51946ed50, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_FlipX: 0
   m_FlipY: 0
@@ -161,6 +161,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a70b42f78c3fa384b856607d219c9869, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  playerHealth: {fileID: 1888451872857604696, guid: 5fa8fcab0848c0c40b05990bd1aab1b3, type: 3}
   damage: 1
 --- !u!61 &7687911227299425284
 BoxCollider2D:

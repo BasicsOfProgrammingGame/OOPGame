@@ -1,3 +1,4 @@
+using Unity.VisualScripting;
 using UnityEngine;
 
 public class Bullet : MonoBehaviour
@@ -8,10 +9,12 @@ public class Bullet : MonoBehaviour
     {
         if (collision.CompareTag("Player"))
         {
-            PlayerHealth playerHealth = collision.GetComponent<PlayerHealth>();
-            if (playerHealth != null)
+            GameObject health = GameObject.FindGameObjectWithTag("Lives");
+
+            if (health.GetComponent<PlayerHealth>() != null)
             {
-                playerHealth.TakeDamage(damage);
+                Debug.Log("AAA");
+                health.GetComponent<PlayerHealth>().TakeDamage(damage);
             }
 
             Destroy(gameObject);
