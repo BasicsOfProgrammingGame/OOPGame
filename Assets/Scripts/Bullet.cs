@@ -13,8 +13,7 @@ public class Bullet : MonoBehaviour
 
             if (health.GetComponent<PlayerHealth>() != null)
             {
-                Debug.Log("AAA");
-                health.GetComponent<PlayerHealth>().TakeDamage(damage);
+                health.GetComponent<PlayerHealth>().TakeDamage(damage, GameObject.FindGameObjectWithTag("Player").transform);
             }
 
             Destroy(gameObject);

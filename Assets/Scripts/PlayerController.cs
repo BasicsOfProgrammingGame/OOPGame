@@ -5,12 +5,12 @@ public class PlayerController : MonoBehaviour
 {
     private Rigidbody2D rigidbody;
     private float HorizontalMove = 0f;
-    [Range(0,10f)] public float speed = 5f;
-    [Range(0, 100f)] public float jumpForce = 30f;
+    [Range(0,10f)] public float speed = 0.5f;
+    [Range(0, 100f)] public float jumpForce = 10f;
 
     public bool isGrounded = false;
-    [Range(-5f, 5f)] public float checkGroundOffsetY = -1.8f;
-    [Range(0, 5f)] public float checkGroundRadius = (float)1.7;
+    [Range(-5f, 5f)] public float checkGroundOffsetY = -0.6f;
+    [Range(0, 5f)] public float checkGroundRadius = 0.3f;
     private bool FacingRight = true;
 
     public Animator animator;

@@ -20,10 +20,6 @@ public class ShootingEnemy : MonoBehaviour
         {
             player = playerObj.transform;
         }
-        //else
-        //{
-        //    Debug.Log("no player");
-        //}
     }
 
     private void Update()

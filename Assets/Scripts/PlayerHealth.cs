@@ -1,20 +1,37 @@
-using System;
-using NUnit.Compatibility;
-using NUnit.Framework;
+using System.Collections;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-using UnityEngine.UI;
 
 public class PlayerHealth : MonoBehaviour
 {
+    [Header("Настройки здоровья")]
     public int maxHealth = 3;
     private int currentHealth;
-    [SerializeField] GameObject live3;
-    [SerializeField] GameObject live2;
-    [SerializeField] GameObject live1;
-    [SerializeField] GameObject live0;
+
+    [Header("Отображение жизней")]
+    [SerializeField] private GameObject live3;
+    [SerializeField] private GameObject live2;
+    [SerializeField] private GameObject live1;
+    [SerializeField] private GameObject live0;
+
+    [Header("Настройки игрока")]
+    [SerializeField] private GameObject player; // Ссылка на игрока
+    public float knockBackForce = 5f;
+    public float invincibilityTime = 1.5f;
+
+    private Rigidbody2D playerRb;
+    private Transform playerTransform;
+    private bool isInvincible = false;
+    private Collider2D playerCollider;
+    private int originalPlayerLayer;
 
     private void Start()
+    {
+        InitializeHealthDisplay();
+        InitializePlayerReferences();
+    }
+
+    private void InitializeHealthDisplay()
     {
         live0.SetActive(false);
         live1.SetActive(false);
@@ -22,27 +39,36 @@ public class PlayerHealth : MonoBehaviour
         live3.SetActive(true);
         currentHealth = maxHealth;
     }
-    private void Update()
+
+    private void InitializePlayerReferences()
     {
-        if (Input.GetKeyDown(KeyCode.K))
+        if (player == null)
         {
-            TakeDamage(1);
+            player = GameObject.FindGameObjectWithTag("Player"); // если забыл
+        }
+
+        if (player != null)
+        {
+            playerTransform = player.transform;
+            playerRb = player.GetComponent<Rigidbody2D>();
+            playerCollider = player.GetComponent<Collider2D>();
+            originalPlayerLayer = player.layer;
+        }
+        else
+        {
+            Debug.LogError("Ты куда игрока дел?!");
         }
     }
-    public void ChangeLives(int damage)
-    {
-        GameObject[] Lives = new GameObject[] { live0, live1, live2, live3 };
 
-        Lives[currentHealth].SetActive(false);
-        Lives[currentHealth - damage].SetActive(true);
-    }
-
-    public void TakeDamage(int damage)
+    public void TakeDamage(int damage, Transform damageSource)
     {
-        Debug.Log("damage");
-        ChangeLives(damage);
+        if (isInvincible || player == null) return;
+
         currentHealth -= damage;
+        UpdateHealthDisplay();
 
+        ApplyKnockback(damageSource);
+        StartCoroutine(ActivateInvincibility());
 
         if (currentHealth <= 0)
         {
@@ -50,9 +76,68 @@ public class PlayerHealth : MonoBehaviour
         }
     }
 
+    private void UpdateHealthDisplay()
+    {
+        GameObject[] lives = { live0, live1, live2, live3 };
+
+        // Отключаем все жизни
+        foreach (var life in lives)
+        {
+            if (life != null) life.SetActive(false);
+        }
+
+        // Включаем текущее количество жизней
+        if (currentHealth >= 0 && currentHealth < lives.Length && lives[currentHealth] != null)
+        {
+            lives[currentHealth].SetActive(true);
+        }
+    }
+
+    private void ApplyKnockback(Transform damageSource)
+    {
+        if (playerRb != null && playerTransform != null)
+            playerRb.AddForce(new Vector3(0, 1) * knockBackForce, ForceMode2D.Impulse);
+    }
+
+    private IEnumerator ActivateInvincibility()
+    {
+        isInvincible = true;
+
+        // Включаем прохождение сквозь врагов
+        if (playerCollider != null)
+        {
+            player.layer = LayerMask.NameToLayer("InvinciblePlayer");
+            var playerSprite = player.GetComponent<SpriteRenderer>();
+            float timer = 0;
+
+            // Эффект мигания
+            while (timer < invincibilityTime)
+            {
+                if (playerSprite != null)
+                {
+                    playerSprite.enabled = !playerSprite.enabled;
+                }
+                timer += 0.15f;
+                yield return new WaitForSeconds(0.15f);
+            }
+
+            if (playerSprite != null) playerSprite.enabled = true;
+            player.layer = originalPlayerLayer;
+        }
+
+        isInvincible = false;
+    }
+
     private void Die()
     {
+        Debug.Log("Player died");
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
     }
-}
 
+    // Для вызова из других скриптов
+    public void Heal(int amount)
+    {
+        currentHealth = Mathf.Min(currentHealth + amount, maxHealth);
+        UpdateHealthDisplay();
+    }
+}
