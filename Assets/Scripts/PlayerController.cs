@@ -9,7 +9,6 @@ public class PlayerController : MonoBehaviour
     private float originalSpeed;
     private float originalGravityScale;
 
-    public bool isGrounded = false;
     [Range(-5f, 5f)] public float checkGroundOffsetY = -0.6f;
     [Range(0, 5f)] public float checkGroundRadius = 0.3f;
     private bool FacingRight = true;
@@ -39,16 +38,15 @@ public class PlayerController : MonoBehaviour
     {
         rigidbody = GetComponent<Rigidbody2D>();
         originalSpeed = speed;
-        originalGravityScale = rigidbody.gravityScale; // Сохраняем исходную гравитацию
+        originalGravityScale = rigidbody.gravityScale;
     }
 
     private void Update()
     {
         // Прыжок
-        if ((Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.W)) && isGrounded && !isHovering)
+        if ((Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.W)) && IsGroundedNow() && !isHovering)
         {
             rigidbody.AddForce(transform.up * jumpForce, ForceMode2D.Impulse);
-            animator.SetBool("IsJumping", true);
         }
 
         // Обработка движения
@@ -69,7 +67,8 @@ public class PlayerController : MonoBehaviour
         }
 
         animator.SetFloat("HorizontalMove", Mathf.Abs(HorizontalMove));
-        animator.SetBool("IsJumping", !isGrounded);
+        animator.SetBool("IsJumping", !IsGroundedNow() && !isHovering);
+
 
         // Обработка стрельбы
         timeSinceLastShot += Time.deltaTime;
@@ -103,8 +102,8 @@ public class PlayerController : MonoBehaviour
             isShootingRight = false;
         }
 
-        // Зависание в воздухе
-        if (Input.GetKeyDown(KeyCode.LeftShift) && !isGrounded && !isHovering)
+        // Зависание
+        if (Input.GetKeyDown(KeyCode.LeftShift) && !IsGroundedNow() && !isHovering)
         {
             StartHover();
         }
@@ -113,22 +112,17 @@ public class PlayerController : MonoBehaviour
         {
             currentHoverTime += Time.deltaTime;
 
-            // Плавное зависание
             rigidbody.linearVelocity = new Vector2(rigidbody.linearVelocity.x, 0);
             rigidbody.AddForce(Vector2.up * hoverForce * Time.deltaTime * 60, ForceMode2D.Force);
 
             if (currentCloud != null)
-            {
                 currentCloud.transform.position = transform.position + cloudOffset;
-            }
 
-            // Автоматическое прекращение при истечении времени или приземлении
-            if (currentHoverTime >= hoverDuration || isGrounded)
+            if (currentHoverTime >= hoverDuration || IsGroundedNow())
             {
                 StopHover();
             }
 
-            // Ручное прекращение при отпускании клавиши
             if (Input.GetKeyUp(KeyCode.LeftShift))
             {
                 StopHover();
@@ -153,17 +147,14 @@ public class PlayerController : MonoBehaviour
     {
         isHovering = true;
         currentHoverTime = 0f;
-        rigidbody.gravityScale = 0.2f; // Уменьшаем гравитацию для эффекта зависания
+        rigidbody.gravityScale = 0.2f;
+
 
         if (hoverCloudPrefab != null)
         {
-            currentCloud = Instantiate(hoverCloudPrefab,
-                                    transform.position + cloudOffset,
-                                    Quaternion.identity);
-            currentCloud.transform.parent = transform; // Чтобы облако следовало за игроком
+            currentCloud = Instantiate(hoverCloudPrefab, transform.position + cloudOffset, Quaternion.identity);
+            currentCloud.transform.parent = transform;
         }
-
-        animator.SetBool("IsHovering", true);
     }
 
     private void StopHover()
@@ -171,22 +162,19 @@ public class PlayerController : MonoBehaviour
         if (!isHovering) return;
 
         isHovering = false;
-        rigidbody.gravityScale = originalGravityScale; // Восстанавливаем исходную гравитацию
+        rigidbody.gravityScale = originalGravityScale;
 
         if (currentCloud != null)
         {
             Destroy(currentCloud);
             currentCloud = null;
         }
-
-        animator.SetBool("IsHovering", false);
     }
 
     private void FixedUpdate()
     {
         Vector2 targetVelocity = new Vector2(HorizontalMove * 10f, rigidbody.linearVelocity.y);
         rigidbody.linearVelocity = Vector2.Lerp(rigidbody.linearVelocity, targetVelocity, 0.5f);
-        CheckGround();
     }
 
     private void Flip()
@@ -197,28 +185,11 @@ public class PlayerController : MonoBehaviour
         transform.localScale = scale;
     }
 
-    private void CheckGround()
+    private bool IsGroundedNow()
     {
         Collider2D[] colliders = Physics2D.OverlapCircleAll(
             new Vector2(transform.position.x, transform.position.y + checkGroundOffsetY),
             checkGroundRadius);
-
-        bool wasGrounded = isGrounded;
-        isGrounded = colliders.Length > 1;
-
-        // Если только что приземлились, прекращаем зависание
-        if (!wasGrounded && isGrounded && isHovering)
-        {
-            StopHover();
-        }
-    }
-
-    // Визуализация области проверки земли в редакторе
-    private void OnDrawGizmosSelected()
-    {
-        Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(
-            new Vector2(transform.position.x, transform.position.y + checkGroundOffsetY),
-            checkGroundRadius);
+        return colliders.Length > 1;
     }
 }
