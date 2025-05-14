@@ -46,6 +46,7 @@ GameObject:
   - component: {fileID: 1303814042659714186}
   - component: {fileID: 880919559879330887}
   - component: {fileID: -165495371769521622}
+  - component: {fileID: -6871140537268768408}
   m_Layer: 6
   m_Name: MeeleEnemy
   m_TagString: Enemy
@@ -269,8 +270,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d55d5d5f0bcd3c640a95976ff73f3ff5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MeleeEnemyPrefab: {fileID: 0}
-  startPoint: {fileID: 0}
   patrolPoints: []
   speed: 10
   waitTime: 0
@@ -280,7 +279,21 @@ MonoBehaviour:
     m_Bits: 0
   damageToPlayer: 1
   animator: {fileID: 0}
-  spawnInterval: 3
+  destroyAtLastPoint: 0
+  flipSprite: 1
+--- !u!114 &-6871140537268768408
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5618379648402765523}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c8a2f72f1220b54f8188f493e0c6f09, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  currentHealth: 3
 --- !u!1 &8077254701557995382
 GameObject:
   m_ObjectHideFlags: 0
