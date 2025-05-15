@@ -5,7 +5,7 @@ public class MainMenu : MonoBehaviour
 {
     public void StartGame()
     {
-        SceneManager.LoadScene("2 level"); // ”кажи им€ сцены с самой игрой
+        SceneManager.LoadScene("1 level"); // ”кажи им€ сцены с самой игрой
     }
 
     public void ExitGame()

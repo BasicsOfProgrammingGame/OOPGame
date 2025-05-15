@@ -200,7 +200,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 0.5
   jumpForce: 10
-  isGrounded: 0
   checkGroundOffsetY: -0.6
   checkGroundRadius: 0.3
   animator: {fileID: 5852836267246234702}
+  playerBulletPrefab: {fileID: 8837863461878920808, guid: dbdbd07240ce9b849991ed65c40f05dd, type: 3}
+  firePoint: {fileID: 5132959700569869579}
+  bulletSpeed: 15
+  shootCooldown: 0.5
+  shootingSlowdownFactor: 0.5
+  hoverForce: 5
+  hoverDuration: 2
+  hoverCloudPrefab: {fileID: 8837863461878920808, guid: 7bf3c9f6e44ece54c8c162f7a796d3b2, type: 3}
+  cloudOffset: {x: 0, y: -0.5, z: 0}
