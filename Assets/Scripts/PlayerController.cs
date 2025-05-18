@@ -140,7 +140,7 @@ public class PlayerController : MonoBehaviour
         if (direction < 0)
             bullet.transform.localScale = new Vector3(-1, 1, 1);
 
-        animator.SetTrigger("Shoot");
+       // animator.SetTrigger("Shoot");
     }
 
     private void StartHover()
