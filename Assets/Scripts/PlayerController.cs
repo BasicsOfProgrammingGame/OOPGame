@@ -138,8 +138,11 @@ public class PlayerController : MonoBehaviour
         rb.linearVelocity = bulletDirection * bulletSpeed;
 
         if (direction < 0)
-            bullet.transform.localScale = new Vector3(-1, 1, 1);
-
+        {
+            var x = bullet.transform.localScale.x;
+            var y = bullet.transform.localScale.y;
+            bullet.transform.localScale = new Vector3(-x, y, 1);
+        }
        // animator.SetTrigger("Shoot");
     }
 
