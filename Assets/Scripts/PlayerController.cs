@@ -1,5 +1,5 @@
 using UnityEngine;
-
+using UnityEngine.SceneManagement;
 public class PlayerController : MonoBehaviour
 {
     private Rigidbody2D rigidbody;
@@ -47,6 +47,10 @@ public class PlayerController : MonoBehaviour
         if ((Input.GetKeyDown(KeyCode.Space) || Input.GetKeyDown(KeyCode.W)) && IsGroundedNow() && !isHovering)
         {
             rigidbody.AddForce(transform.up * jumpForce, ForceMode2D.Impulse);
+        }
+        if (Input.GetKeyDown(KeyCode.Escape) )
+        {
+            SceneManager.LoadScene("Menu");
         }
 
         // Обработка движения

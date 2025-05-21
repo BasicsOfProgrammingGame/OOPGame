@@ -27,7 +27,6 @@ public class PatrollingEnemy : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         if (patrolPoints.Length == 0)
         {
-            Debug.LogError("Не заданы точки патрулирования!", this);
             enabled = false;
             return;
         }
@@ -41,7 +40,6 @@ public class PatrollingEnemy : MonoBehaviour
 
         if (patrolPoints.Length == 0)
         {
-            Debug.LogError("Не заданы точки патрулирования!", this);
             enabled = false;
             return;
         }
@@ -81,9 +79,7 @@ public class PatrollingEnemy : MonoBehaviour
             }
         }
 
-        // Анимация движения
-        if (animator != null)
-            animator.SetFloat("HorizontalMove", Mathf.Abs(direction));
+  
 
         // Проверка достижения точки
         if (Vector2.Distance(rb.position, currentTarget) < distanceThreshold)
@@ -103,8 +99,6 @@ public class PatrollingEnemy : MonoBehaviour
     private IEnumerator WaitAtPoint()
     {
         waiting = true;
-        if (animator != null)
-            animator.SetFloat("HorizontalMove", 0);
         yield return new WaitForSeconds(waitTime);
         waiting = false;
     }
