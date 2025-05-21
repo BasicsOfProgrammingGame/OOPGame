@@ -25,8 +25,11 @@ public class PlayerHealth : MonoBehaviour
     private Collider2D playerCollider;
     private int originalPlayerLayer;
 
+    public GameObject deathScreenPanel;
+
     private void Start()
     {
+        deathScreenPanel.SetActive(false);
         InitializeHealthDisplay();
         InitializePlayerReferences();
     }
@@ -131,7 +134,26 @@ public class PlayerHealth : MonoBehaviour
     private void Die()
     {
         Debug.Log("Player died");
-        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+
+        if (deathScreenPanel != null)
+        {
+            deathScreenPanel.SetActive(true);
+
+            foreach (Transform child in deathScreenPanel.transform)
+            {
+                child.gameObject.SetActive(true);
+            }
+        }
+        else
+        {
+            Debug.LogError("Death screen panel not assigned!");
+        }
+
+        // Дополнительные действия при смерти
+        if (player != null)
+        {
+            player.SetActive(false); // Деактивируем игрока
+        }
     }
 
     // Для вызова из других скриптов

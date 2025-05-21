@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: f6fa545915f091a45be741f890f5e89c
+guid: d7fad3422f0f1024ab4f5f01ee6f9525
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -3857361615775840586
-    second: photo_2025-05-20_21-43-12 (2)_0
+      213: 2479247604388294975
+    second: png-klev-club-te19-p-piksel-art-shipi-png-6_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: photo_2025-05-20_21-43-12 (2)_0
+      name: png-klev-club-te19-p-piksel-art-shipi-png-6_0
       rect:
         serializedVersion: 2
-        x: 0
+        x: 79
         y: 0
-        width: 1276
-        height: 284
+        width: 1082
+        height: 481
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 6b644713c06e77ac0800000000000000
-      internalID: -3857361615775840586
+      spriteID: f317dc18f8e086220800000000000000
+      internalID: 2479247604388294975
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      png-klev-club-te19-p-piksel-art-shipi-png-6_0: 2479247604388294975
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: c5ae9ac481def55489b8f78881c8255c
+guid: a303de745525fd548b1e455a3826dad9
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5079630427563152639
-    second: photo_2025-05-20_21-43-12_0
+      213: 7042847911465117151
+    second: menu_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: photo_2025-05-20_21-43-12_0
+      name: menu_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 1272
-        height: 280
+        width: 1024
+        height: 1024
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 10b25d60a078189b0800000000000000
-      internalID: -5079630427563152639
+      spriteID: fd5eaf16cd83db160800000000000000
+      internalID: 7042847911465117151
       vertices: []
       indices: 
       edges: []
@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      menu_0: 7042847911465117151
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
