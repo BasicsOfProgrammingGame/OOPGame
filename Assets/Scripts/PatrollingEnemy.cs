@@ -22,6 +22,19 @@ public class PatrollingEnemy : MonoBehaviour
     private Vector2 currentTarget;
     private bool isFacingLeft = true;
 
+    public void Initialize()
+    {
+        rb = GetComponent<Rigidbody2D>();
+        if (patrolPoints.Length == 0)
+        {
+            Debug.LogError("Не заданы точки патрулирования!", this);
+            enabled = false;
+            return;
+        }
+
+        currentTarget = patrolPoints[currentPointIndex].position;
+    }
+
     private void Start()
     {
         rb = GetComponent<Rigidbody2D>();
